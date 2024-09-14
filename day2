@@ -1,2 +1,6 @@
 #!/bin/bash
   //this represents the shell
+A shellcode is a small piece of executable code used as a payload,
+built to exploit vulnerabilities in a system or carry out malicious commands. 
+The name comes from the fact that the shellcode usually starts a command shell 
+which allows the attacker to control the compromised machine.
